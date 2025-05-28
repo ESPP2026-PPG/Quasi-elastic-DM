@@ -14,4 +14,4 @@ The sensitivity is given in terms of the parameters $m_{\chi}$ and $Y = \alpha_{
 - FPF (FLArE, FASERv2): fig. 5.2 from https://arxiv.org/pdf/2203.05090
 - NA62 in the kaon mode: update of Fig. 7 from https://arxiv.org/pdf/1903.08767 (NA62 paper to be submitted in June)
 - NA64: https://indico.cern.ch/event/1439855/abstracts/190820/attachments/19666/NA64_Input_to_ESPPU__2025.pdf
-- SHiP
+- SHiP: taken from https://arxiv.org/abs/2409.11096
