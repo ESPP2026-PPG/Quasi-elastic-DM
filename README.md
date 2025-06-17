@@ -6,9 +6,9 @@ This is the model of dark photons $A$ coupled to a dark matter candidate $\chi$.
 
 The model's parameters are $`m_{A},m_{\chi}, \alpha_{D}, \epsilon`$, where $m$ are masses, $\alpha_{D} = g_{D}^{2}/4\pi$ is the coupling of the dark photons to the dark matter, and $\epsilon$ controls dark photon coupling to the SM. Typically, $\alpha_{D}$ and $m_{\chi}/m_{V}$ are fixed; their values are chosen in a way such that dark photon predominantly decays invisibly - into $\chi\chi'$ pairs. The commonly considered choice is $\alpha_{D} = 0.1$ (subject to a simple rescale) and $m_{\chi} = m_{A}/3$.
 
-The sensitivity is given in terms of the parameters $m_{\chi}$ and $Y = \alpha_{D}\epsilon^{2}(m_{\chi}/m_{A})^{4}$.
+The sensitivity is given in terms of the parameters $`m_{\chi}`$ and $`Y = \alpha_{D}\epsilon^{2}(m_{\chi}/m_{A})^{4}`$.
 
-- *Zero mass splitting between $\chi$ and $\chi'$*: direct detection constraints and sensitivities applied.
+- *Zero mass splitting between $`\chi`$ and $`\chi'`$*: direct detection constraints and sensitivities applied.
 - *Non-zero mass splitting*: direct detection is irrelevant.
 
 ## Added constraints
