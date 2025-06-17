@@ -8,7 +8,7 @@ The model's parameters are $`m_{A},m_{\chi}, \alpha_{D}, \epsilon`$, where $m$ a
 
 The sensitivity is given in terms of the parameters $`m_{\chi}`$ and $`Y = \alpha_{D}\epsilon^{2}(m_{\chi}/m_{A})^{4}`$.
 
-- *Zero mass splitting between $`\chi`$ and $`\chi'`$*: direct detection constraints and sensitivities applied.
+- *Zero mass splitting between* $`\chi`$ *and* $`\chi'`$: direct detection constraints and sensitivities applied.
 - *Non-zero mass splitting*: direct detection is irrelevant.
 
 ## Added constraints
