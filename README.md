@@ -16,6 +16,7 @@ The sensitivity is given in terms of the parameters $m_{\chi}$ and $Y = \alpha_{
 - BaBar: provided by Paolo Crivelli ([corresponding to the NA64 contribution to the ESPP](https://indico.cern.ch/event/1439855/contributions/6461450/attachments/3045819/5381736/NA64_Input_to_ESPPU__2025.pdf)).
 - Thermal target lines: provided by Paolo Crivelli
 - NA64: provided by Paolo Crivelli (the ``2022'' curves [corresponding to the NA64 contribution to the ESPP](https://indico.cern.ch/event/1439855/contributions/6461450/attachments/3045819/5381736/NA64_Input_to_ESPPU__2025.pdf)).
+- Direct detection (re-interpretation made by by Paolo) 
 
  
 ## Added sensitivities
@@ -23,14 +24,14 @@ The sensitivity is given in terms of the parameters $m_{\chi}$ and $Y = \alpha_{
 - FPF (FLArE, FASERv2): fig. 5.2 from https://arxiv.org/pdf/2203.05090
 - SHiP: taken from https://arxiv.org/abs/2409.11096
 - NA64 in different regimes ($e$, $\mu$): provided by Paolo Crivelli ([corresponding to the NA64 contribution to the ESPP](https://indico.cern.ch/event/1439855/contributions/6461450/attachments/3045819/5381736/NA64_Input_to_ESPPU__2025.pdf))
- 
+- Direct detection (added by Paolo)
+- Belle II: taken from https://arxiv.org/abs/1911.03176
+- 
 ## Sensitivities to be added
 
 - NA62 in the kaon mode: update of Fig. 7 from https://arxiv.org/pdf/1903.08767 (NA62 paper to be submitted in June)
-- Belle II
-- Direct detection (Paolo)
 
 ## Constraints to be added
 
 - Smaller masses?
-- Direct detection (Paolo)
+
